@@ -12,6 +12,14 @@
 		<jackson.version>2.5.0</jackson.version>
 	</properties>
 	<dependencies>
+
+		<!-- elasticsearch-hadoop 
+		<dependency>
+			<groupId>org.elasticsearch</groupId>
+			<artifactId>elasticsearch-hadoop</artifactId>
+			<version>5.0.0</version>
+		</dependency>
+		-->
 		<!-- elasticsearch -->
 		<dependency>
 			<groupId>org.elasticsearch</groupId>
